@@ -1,0 +1,106 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.1">
+  <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
+    <mxGraphModel dx="786" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-5" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="Sistem" vertex="1">
+          <mxGeometry height="340" width="100" x="470" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-6" parent="aM9ryv3xv72pqoxQDRHE-5" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="50" width="10" x="45" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Definire contracte&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="470" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="Angajat juridic" vertex="1">
+          <mxGeometry height="300" width="100" x="700" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-6" edge="1" parent="M-cpnbVScWtrmfGU0kzX-2" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" target="aM9ryv3xv72pqoxQDRHE-6" value="Alegere tip de contract necesar">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-65" y="180" />
+            </Array>
+            <mxPoint x="50" y="180" as="sourcePoint" />
+            <mxPoint x="-145.5" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-18" parent="M-cpnbVScWtrmfGU0kzX-2" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="60" width="10" x="45" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-9" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-5" style="endArrow=classic;html=1;rounded=0;" target="aM9ryv3xv72pqoxQDRHE-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="190" />
+              <mxPoint x="580" y="210" />
+            </Array>
+            <mxPoint x="460" y="290" as="sourcePoint" />
+            <mxPoint x="510" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-10" connectable="0" parent="M-cpnbVScWtrmfGU0kzX-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Preluare tipuri de contract disponibile" vertex="1">
+          <mxGeometry relative="1" x="0.0142" y="-1" as="geometry">
+            <mxPoint x="31" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="519.5" y="229.5" as="sourcePoint" />
+            <mxPoint x="749.5" y="229.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-12" connectable="0" parent="M-cpnbVScWtrmfGU0kzX-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Afisare tipuri de contract" vertex="1">
+          <mxGeometry relative="1" x="-0.265" as="geometry">
+            <mxPoint x="27" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="519.5" y="340" as="sourcePoint" />
+            <mxPoint x="750" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-14" connectable="0" parent="M-cpnbVScWtrmfGU0kzX-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Filtrare baza de date in functie de alegere" vertex="1">
+          <mxGeometry relative="1" x="0.066" as="geometry">
+            <mxPoint x="-11" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-15" edge="1" parent="1" source="M-cpnbVScWtrmfGU0kzX-2" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" value="Completare si incarcare contract">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="370" />
+            </Array>
+            <mxPoint x="745" y="370" as="sourcePoint" />
+            <mxPoint x="520" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="400" />
+              <mxPoint x="580" y="420" />
+            </Array>
+            <mxPoint x="520" y="400" as="sourcePoint" />
+            <mxPoint x="520" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-17" connectable="0" parent="M-cpnbVScWtrmfGU0kzX-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Actualizare arhiva" vertex="1">
+          <mxGeometry relative="1" x="0.0142" y="-1" as="geometry">
+            <mxPoint x="-9" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-7" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-5" style="endArrow=classic;html=1;rounded=0;" target="M-cpnbVScWtrmfGU0kzX-18" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="565" y="310" as="sourcePoint" />
+            <mxPoint x="750" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-8" connectable="0" parent="M-cpnbVScWtrmfGU0kzX-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Returnare model contract" vertex="1">
+          <mxGeometry relative="1" x="0.066" as="geometry">
+            <mxPoint x="-11" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
