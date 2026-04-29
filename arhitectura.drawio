@@ -1,0 +1,171 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="HCR_7HECL8AtMT9Q2mOL">
+    <mxGraphModel dx="2328" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-20" parent="1" style="html=1;shape=mxgraph.sysml.itemFlow;fontStyle=1;flowDir=n;flowType=in;whiteSpace=wrap;align=center;" value="Arhiva" vertex="1">
+          <mxGeometry height="80" width="200" x="-210" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-35" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="220" x="920" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-32" parent="Z2kwqcjG3glDfrl_QPtV-35" style="html=1;shape=mxgraph.sysml.port1;fontStyle=1;whiteSpace=wrap;align=center;" value="Modul interactiune documente" vertex="1">
+          <mxGeometry height="80" width="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-34" parent="Z2kwqcjG3glDfrl_QPtV-35" style="html=1;shape=mxgraph.sysml.port;sysMLPortType=doubleH;" value="" vertex="1">
+          <mxGeometry height="20" width="20" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-40" edge="1" parent="1" source="Z2kwqcjG3glDfrl_QPtV-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="Z2kwqcjG3glDfrl_QPtV-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="450" />
+              <mxPoint x="870" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Formular contract" vertex="1">
+          <mxGeometry height="30" width="130" x="730" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-43" edge="1" parent="1" source="Z2kwqcjG3glDfrl_QPtV-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="Z2kwqcjG3glDfrl_QPtV-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="510" />
+              <mxPoint x="870" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Formular act voiaj" vertex="1">
+          <mxGeometry height="30" width="110" x="731" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-50" edge="1" parent="1" source="Z2kwqcjG3glDfrl_QPtV-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="Z2kwqcjG3glDfrl_QPtV-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Date angajat si contracte" vertex="1">
+          <mxGeometry height="30" width="150" x="230" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Date angajat si acte voiaj" vertex="1">
+          <mxGeometry height="30" width="150" x="230" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-49" edge="1" parent="1" source="Z2kwqcjG3glDfrl_QPtV-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="Z2kwqcjG3glDfrl_QPtV-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="390" />
+            </Array>
+            <mxPoint x="420" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-58" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="90" width="210" x="450" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-54" parent="Z2kwqcjG3glDfrl_QPtV-58" style="html=1;shape=mxgraph.sysml.port1;fontStyle=1;whiteSpace=wrap;align=center;" value="Modul completare automata contract" vertex="1">
+          <mxGeometry height="80" width="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-56" parent="Z2kwqcjG3glDfrl_QPtV-58" style="html=1;shape=mxgraph.sysml.port;sysMLPortType=doubleH;rotation=90;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="95" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-59" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="90" width="210" x="450" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-48" connectable="0" parent="Z2kwqcjG3glDfrl_QPtV-59" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="210" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-38" connectable="0" parent="Z2kwqcjG3glDfrl_QPtV-48" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-16" parent="Z2kwqcjG3glDfrl_QPtV-38" style="html=1;shape=mxgraph.sysml.itemFlow;fontStyle=1;flowDir=e;flowType=out;whiteSpace=wrap;align=center;" value="Modul definire contracte" vertex="1">
+          <mxGeometry height="80" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-36" parent="Z2kwqcjG3glDfrl_QPtV-38" style="html=1;shape=mxgraph.sysml.port;sysMLPortType=doubleH;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="180" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-45" parent="Z2kwqcjG3glDfrl_QPtV-48" style="html=1;shape=mxgraph.sysml.port;sysMLPortType=doubleH;" value="" vertex="1">
+          <mxGeometry height="20" width="20" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-57" parent="Z2kwqcjG3glDfrl_QPtV-59" style="html=1;shape=mxgraph.sysml.port;sysMLPortType=doubleH;rotation=90;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-60" edge="1" parent="1" source="Z2kwqcjG3glDfrl_QPtV-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="Z2kwqcjG3glDfrl_QPtV-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="555" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Contract" vertex="1">
+          <mxGeometry height="30" width="60" x="555" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-65" edge="1" parent="1" source="Z2kwqcjG3glDfrl_QPtV-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="Z2kwqcjG3glDfrl_QPtV-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Act voiaj" vertex="1">
+          <mxGeometry height="30" width="60" x="555" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-67" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="90" width="210" x="450" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-47" connectable="0" parent="Z2kwqcjG3glDfrl_QPtV-67" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-39" connectable="0" parent="Z2kwqcjG3glDfrl_QPtV-47" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-19" parent="Z2kwqcjG3glDfrl_QPtV-39" style="html=1;shape=mxgraph.sysml.itemFlow;fontStyle=1;flowDir=e;flowType=out;whiteSpace=wrap;align=center;" value="Modul definire acte de voiaj" vertex="1">
+          <mxGeometry height="80" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-37" parent="Z2kwqcjG3glDfrl_QPtV-39" style="html=1;shape=mxgraph.sysml.port;sysMLPortType=doubleH;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="180" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-46" parent="Z2kwqcjG3glDfrl_QPtV-47" style="html=1;shape=mxgraph.sysml.port;sysMLPortType=doubleH;" value="" vertex="1">
+          <mxGeometry height="20" width="20" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-63" parent="Z2kwqcjG3glDfrl_QPtV-67" style="html=1;shape=mxgraph.sysml.port;sysMLPortType=doubleH;rotation=90;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="95" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-68" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="455" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-62" parent="Z2kwqcjG3glDfrl_QPtV-68" style="html=1;shape=mxgraph.sysml.itemFlow;fontStyle=1;flowDir=n;flowType=in;whiteSpace=wrap;align=center;" value="Modul completare automata act voiaj" vertex="1">
+          <mxGeometry height="80" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-64" parent="Z2kwqcjG3glDfrl_QPtV-68" style="html=1;shape=mxgraph.sysml.port;sysMLPortType=doubleH;rotation=90;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-70" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="210" x="60" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-22" connectable="0" parent="Z2kwqcjG3glDfrl_QPtV-70" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-14" parent="Z2kwqcjG3glDfrl_QPtV-22" style="html=1;shape=mxgraph.sysml.itemFlow;fontStyle=1;flowDir=n;flowType=in;whiteSpace=wrap;align=center;" value="Baza de date PostgreSQL" vertex="1">
+          <mxGeometry height="80" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-27" parent="Z2kwqcjG3glDfrl_QPtV-22" style="html=1;shape=mxgraph.sysml.port;sysMLPortType=doubleH;rotation=90;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-69" parent="Z2kwqcjG3glDfrl_QPtV-70" style="html=1;shape=mxgraph.sysml.port;sysMLPortType=flowN;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="20" width="20" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-71" parent="1" style="html=1;shape=mxgraph.sysml.port;sysMLPortType=flowN;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="-20" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2kwqcjG3glDfrl_QPtV-72" edge="1" parent="1" source="Z2kwqcjG3glDfrl_QPtV-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="Z2kwqcjG3glDfrl_QPtV-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjTeKTnjnTJnp_StzI12-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Modul afisare rapoarte&lt;/b&gt;" vertex="1">
+          <mxGeometry height="70" width="190" x="-205" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjTeKTnjnTJnp_StzI12-3" parent="1" style="html=1;shape=mxgraph.sysml.port;sysMLPortType=flowN;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="-120" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjTeKTnjnTJnp_StzI12-4" parent="1" style="html=1;shape=mxgraph.sysml.port;sysMLPortType=flowN;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="-120" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjTeKTnjnTJnp_StzI12-5" edge="1" parent="1" source="ZjTeKTnjnTJnp_StzI12-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="ZjTeKTnjnTJnp_StzI12-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjTeKTnjnTJnp_StzI12-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Raport" vertex="1">
+          <mxGeometry height="30" width="60" x="-110" y="570" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
