@@ -1,26 +1,23 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 OPR/128.0.0.0" version="29.6.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 OPR/128.0.0.0">
   <diagram name="Page-1" id="pbOvHwQQiW7gwjs585I3">
-    <mxGraphModel dx="1653" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1191" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DxyWT3NmZ25YIQ_haIZy-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Administrator" vertex="1">
-          <mxGeometry height="60" width="30" x="20" y="420" as="geometry" />
+          <mxGeometry height="60" width="30" x="50" y="405" as="geometry" />
         </mxCell>
         <mxCell id="DxyWT3NmZ25YIQ_haIZy-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;div&gt;Angajat contabil&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="30" x="1070" y="310" as="geometry" />
+          <mxGeometry height="60" width="30" x="1020" y="340" as="geometry" />
         </mxCell>
         <mxCell id="DxyWT3NmZ25YIQ_haIZy-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;div&gt;Gestionarea departamentelor&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="150" y="310" as="geometry" />
+          <mxGeometry height="80" width="120" x="150" y="325" as="geometry" />
         </mxCell>
         <mxCell id="DxyWT3NmZ25YIQ_haIZy-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Gestionarea conturilor/drepturilor angajatilor" vertex="1">
-          <mxGeometry height="80" width="120" x="150" y="400" as="geometry" />
-        </mxCell>
-        <mxCell id="DxyWT3NmZ25YIQ_haIZy-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;div&gt;Gestionarea accesului la arhiva&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="150" y="500" as="geometry" />
+          <mxGeometry height="80" width="120" x="150" y="460" as="geometry" />
         </mxCell>
         <mxCell id="DxyWT3NmZ25YIQ_haIZy-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sistem de gestiune al serviciilor de productie si suport" vertex="1">
-          <mxGeometry height="60" width="120" x="360" y="410" as="geometry" />
+          <mxGeometry height="60" width="120" x="360" y="400" as="geometry" />
         </mxCell>
         <mxCell id="DxyWT3NmZ25YIQ_haIZy-8" edge="1" parent="1" source="DxyWT3NmZ25YIQ_haIZy-1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" target="DxyWT3NmZ25YIQ_haIZy-4" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -32,18 +29,6 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="70" y="470" as="sourcePoint" />
             <mxPoint x="120" y="420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DxyWT3NmZ25YIQ_haIZy-11" edge="1" parent="1" source="DxyWT3NmZ25YIQ_haIZy-1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" target="DxyWT3NmZ25YIQ_haIZy-6" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="10" y="400" as="sourcePoint" />
-            <mxPoint x="110" y="460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DxyWT3NmZ25YIQ_haIZy-12" edge="1" parent="1" source="DxyWT3NmZ25YIQ_haIZy-6" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="DxyWT3NmZ25YIQ_haIZy-7" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="300" y="550" as="sourcePoint" />
-            <mxPoint x="350" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DxyWT3NmZ25YIQ_haIZy-13" edge="1" parent="1" source="DxyWT3NmZ25YIQ_haIZy-5" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="DxyWT3NmZ25YIQ_haIZy-7" value="">
@@ -59,25 +44,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DxyWT3NmZ25YIQ_haIZy-16" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;div&gt;Angajat juridic&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="30" x="1070" y="55" as="geometry" />
+          <mxGeometry height="60" width="30" x="1020" y="140" as="geometry" />
         </mxCell>
         <mxCell id="DxyWT3NmZ25YIQ_haIZy-17" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Manager" vertex="1">
-          <mxGeometry height="60" width="30" x="1070" y="510" as="geometry" />
+          <mxGeometry height="60" width="30" x="1020" y="510" as="geometry" />
         </mxCell>
         <mxCell id="DxyWT3NmZ25YIQ_haIZy-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Definire contracte&amp;nbsp;" vertex="1">
-          <mxGeometry height="65" width="120" x="860" y="50" as="geometry" />
+          <mxGeometry height="65" width="120" x="820" y="100" as="geometry" />
         </mxCell>
         <mxCell id="DxyWT3NmZ25YIQ_haIZy-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Definire documente de voiaj pentru angajati" vertex="1">
-          <mxGeometry height="65" width="120" x="860" y="120" as="geometry" />
+          <mxGeometry height="65" width="120" x="820" y="200" as="geometry" />
         </mxCell>
         <mxCell id="DxyWT3NmZ25YIQ_haIZy-28" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Inregistrare facturi" vertex="1">
-          <mxGeometry height="65" width="120" x="860" y="200" as="geometry" />
-        </mxCell>
-        <mxCell id="DxyWT3NmZ25YIQ_haIZy-30" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Generare raport de bilant" vertex="1">
-          <mxGeometry height="65" width="120" x="860" y="270" as="geometry" />
-        </mxCell>
-        <mxCell id="DxyWT3NmZ25YIQ_haIZy-31" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Actualizare date de calcul ale taxelor" vertex="1">
-          <mxGeometry height="65" width="120" x="860" y="350" as="geometry" />
+          <mxGeometry height="65" width="120" x="820" y="325" as="geometry" />
         </mxCell>
         <mxCell id="DxyWT3NmZ25YIQ_haIZy-34" edge="1" parent="1" source="DxyWT3NmZ25YIQ_haIZy-16" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" target="DxyWT3NmZ25YIQ_haIZy-23" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -98,33 +77,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DxyWT3NmZ25YIQ_haIZy-38" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Generare rapoarte de mentenanta nave" vertex="1">
-          <mxGeometry height="65" width="120" x="860" y="467.5" as="geometry" />
-        </mxCell>
-        <mxCell id="DxyWT3NmZ25YIQ_haIZy-39" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Rezervare dane pentru ambarcatiuni" vertex="1">
-          <mxGeometry height="65" width="120" x="860" y="547.5" as="geometry" />
+          <mxGeometry height="65" width="120" x="820" y="460" as="geometry" />
         </mxCell>
         <mxCell id="DxyWT3NmZ25YIQ_haIZy-42" edge="1" parent="1" source="DxyWT3NmZ25YIQ_haIZy-38" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="DxyWT3NmZ25YIQ_haIZy-17" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="990" y="510" as="sourcePoint" />
             <mxPoint x="1040" y="460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DxyWT3NmZ25YIQ_haIZy-48" edge="1" parent="1" source="DxyWT3NmZ25YIQ_haIZy-39" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" target="DxyWT3NmZ25YIQ_haIZy-17" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1130" y="670" as="sourcePoint" />
-            <mxPoint x="1180" y="620" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DxyWT3NmZ25YIQ_haIZy-49" edge="1" parent="1" source="DxyWT3NmZ25YIQ_haIZy-31" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="DxyWT3NmZ25YIQ_haIZy-2" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1000" y="370" as="sourcePoint" />
-            <mxPoint x="1050" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DxyWT3NmZ25YIQ_haIZy-50" edge="1" parent="1" source="DxyWT3NmZ25YIQ_haIZy-30" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" target="DxyWT3NmZ25YIQ_haIZy-2" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1080" y="290" as="sourcePoint" />
-            <mxPoint x="1130" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DxyWT3NmZ25YIQ_haIZy-51" edge="1" parent="1" source="DxyWT3NmZ25YIQ_haIZy-7" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="DxyWT3NmZ25YIQ_haIZy-23" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
@@ -145,28 +103,10 @@
             <mxPoint x="840" y="248" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DxyWT3NmZ25YIQ_haIZy-57" edge="1" parent="1" source="DxyWT3NmZ25YIQ_haIZy-7" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="DxyWT3NmZ25YIQ_haIZy-30" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
-          <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="642" y="412" as="sourcePoint" />
-            <mxPoint x="950" y="410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DxyWT3NmZ25YIQ_haIZy-58" edge="1" parent="1" source="DxyWT3NmZ25YIQ_haIZy-7" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="DxyWT3NmZ25YIQ_haIZy-31" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
-          <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="660.0000000000045" y="440" as="sourcePoint" />
-            <mxPoint x="950" y="450" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DxyWT3NmZ25YIQ_haIZy-60" edge="1" parent="1" source="DxyWT3NmZ25YIQ_haIZy-7" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="DxyWT3NmZ25YIQ_haIZy-38" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
           <mxGeometry relative="1" width="160" as="geometry">
             <mxPoint x="642.4264068711987" y="468.284271247466" as="sourcePoint" />
             <mxPoint x="930" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DxyWT3NmZ25YIQ_haIZy-61" edge="1" parent="1" source="DxyWT3NmZ25YIQ_haIZy-7" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="DxyWT3NmZ25YIQ_haIZy-39" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
-          <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="642.4264068711987" y="468.284271247466" as="sourcePoint" />
-            <mxPoint x="970" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
