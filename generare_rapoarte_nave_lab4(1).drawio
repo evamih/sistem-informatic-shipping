@@ -1,0 +1,223 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0">
+  <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
+    <mxGraphModel dx="1106" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-5" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="Sistem" vertex="1">
+          <mxGeometry height="750" width="100" x="260" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Generare rapoarte de mentenanta nave&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="370" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-9" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="200" />
+              <mxPoint x="370" y="220" />
+            </Array>
+            <mxPoint x="309.5" y="200" as="sourcePoint" />
+            <mxPoint x="309.5" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-10" connectable="0" parent="M-cpnbVScWtrmfGU0kzX-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Preluare informatii nave" vertex="1">
+          <mxGeometry relative="1" x="0.0142" y="-1" as="geometry">
+            <mxPoint x="-59" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="M-cpnbVScWtrmfGU0kzX-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="240" />
+            </Array>
+            <mxPoint x="310" y="240" as="sourcePoint" />
+            <mxPoint x="540" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-12" connectable="0" parent="M-cpnbVScWtrmfGU0kzX-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Afisare optiune: nava noua sau din sistem" vertex="1">
+          <mxGeometry relative="1" x="-0.265" as="geometry">
+            <mxPoint x="27" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-19" edge="1" parent="1" source="M-cpnbVScWtrmfGU0kzX-2" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="569.75" y="270" as="sourcePoint" />
+            <mxPoint x="310.25" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0d_N124WXisdX2VLPl1N-5" connectable="0" parent="M-cpnbVScWtrmfGU0kzX-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Alegere optiune" vertex="1">
+          <mxGeometry relative="1" x="0.0388" y="7" as="geometry">
+            <mxPoint y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0d_N124WXisdX2VLPl1N-6" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="110" width="460" x="195" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="0d_N124WXisdX2VLPl1N-2" parent="0d_N124WXisdX2VLPl1N-6" style="html=1;shape=mxgraph.sysml.package;html=1;overflow=fill;whiteSpace=wrap;fillColor=none;" value="&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;&lt;b&gt;Alt&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="460" as="geometry" />
+        </mxCell>
+        <mxCell id="0d_N124WXisdX2VLPl1N-3" parent="0d_N124WXisdX2VLPl1N-6" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;if nava noua&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="70" x="390" as="geometry" />
+        </mxCell>
+        <mxCell id="0d_N124WXisdX2VLPl1N-33" connectable="0" parent="0d_N124WXisdX2VLPl1N-6" style="group" value="" vertex="1">
+          <mxGeometry height="30" width="265" x="115" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0d_N124WXisdX2VLPl1N-21" edge="1" parent="0d_N124WXisdX2VLPl1N-33" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="265" y="30" as="sourcePoint" />
+            <mxPoint y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0d_N124WXisdX2VLPl1N-22" connectable="0" parent="0d_N124WXisdX2VLPl1N-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Completare campuri" vertex="1">
+          <mxGeometry relative="1" x="0.0388" y="7" as="geometry">
+            <mxPoint y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0d_N124WXisdX2VLPl1N-23" parent="0d_N124WXisdX2VLPl1N-33" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="30" width="10" x="255" as="geometry" />
+        </mxCell>
+        <mxCell id="0d_N124WXisdX2VLPl1N-19" edge="1" parent="0d_N124WXisdX2VLPl1N-33" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" />
+            </Array>
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0d_N124WXisdX2VLPl1N-20" connectable="0" parent="0d_N124WXisdX2VLPl1N-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Formular cu informatii specifice navei" vertex="1">
+          <mxGeometry relative="1" x="-0.265" as="geometry">
+            <mxPoint x="27" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0d_N124WXisdX2VLPl1N-18" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="350" width="320" x="310" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-16" edge="1" parent="0d_N124WXisdX2VLPl1N-18" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" />
+              <mxPoint x="60" y="29.41176470588235" />
+            </Array>
+            <mxPoint as="sourcePoint" />
+            <mxPoint y="29.41176470588235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-17" connectable="0" parent="M-cpnbVScWtrmfGU0kzX-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Completare automata a documentului" vertex="1">
+          <mxGeometry relative="1" x="0.0142" y="-1" as="geometry">
+            <mxPoint x="-39" y="-26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-26" edge="1" parent="0d_N124WXisdX2VLPl1N-18" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="40" as="sourcePoint" />
+            <mxPoint x="260" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-27" connectable="0" parent="M-cpnbVScWtrmfGU0kzX-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Returnare rezultat" vertex="1">
+          <mxGeometry relative="1" x="-0.265" as="geometry">
+            <mxPoint x="27" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-2" parent="0d_N124WXisdX2VLPl1N-18" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="Manager" vertex="1">
+          <mxGeometry height="720" width="100" x="210" y="-360" as="geometry" />
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-18" parent="M-cpnbVScWtrmfGU0kzX-2" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="30" width="10" x="45" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0d_N124WXisdX2VLPl1N-41" connectable="0" parent="0d_N124WXisdX2VLPl1N-18" style="group" value="" vertex="1">
+          <mxGeometry height="130.00470588235288" width="320" y="79.99529411764705" as="geometry" />
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-15" edge="1" parent="0d_N124WXisdX2VLPl1N-41" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" value="Incarcare varianta finala">
+          <mxGeometry relative="1" x="-0.0019" as="geometry">
+            <mxPoint x="1" as="offset" />
+            <Array as="points">
+              <mxPoint x="110.33999999999997" y="71.18117647058823" />
+            </Array>
+            <mxPoint x="259.84000000000003" y="71.18117647058823" as="sourcePoint" />
+            <mxPoint x="0.15034482758602508" y="71.18117647058823" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-28" edge="1" parent="0d_N124WXisdX2VLPl1N-41" style="endArrow=classic;html=1;rounded=0;" target="M-cpnbVScWtrmfGU0kzX-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" />
+              <mxPoint x="320" y="20.00470588235295" />
+              <mxPoint x="290" y="20.00470588235295" />
+            </Array>
+            <mxPoint x="260" as="sourcePoint" />
+            <mxPoint x="260" y="29.411764705882362" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-29" connectable="0" parent="M-cpnbVScWtrmfGU0kzX-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Verificare document" vertex="1">
+          <mxGeometry relative="1" x="0.0142" y="-1" as="geometry">
+            <mxPoint x="-19" y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-30" edge="1" parent="0d_N124WXisdX2VLPl1N-41" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="100.59294117647055" />
+              <mxPoint x="60" y="130.00470588235288" />
+            </Array>
+            <mxPoint y="100.59294117647055" as="sourcePoint" />
+            <mxPoint y="130.00470588235288" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-31" connectable="0" parent="M-cpnbVScWtrmfGU0kzX-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Actualizare arhiva" vertex="1">
+          <mxGeometry relative="1" x="0.0142" y="-1" as="geometry">
+            <mxPoint x="-49" y="-26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-35" edge="1" parent="0d_N124WXisdX2VLPl1N-41" source="M-cpnbVScWtrmfGU0kzX-2" style="endArrow=classic;html=1;rounded=0;" target="M-cpnbVScWtrmfGU0kzX-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="285.27" y="50.00470588235295" />
+              <mxPoint x="315.27" y="50.00470588235295" />
+              <mxPoint x="315.27" y="66.47529411764704" />
+              <mxPoint x="295.27" y="66.47529411764704" />
+            </Array>
+            <mxPoint x="255.0007692307693" y="50.00470588235295" as="sourcePoint" />
+            <mxPoint x="255.27" y="66.47529411764704" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M-cpnbVScWtrmfGU0kzX-36" connectable="0" parent="M-cpnbVScWtrmfGU0kzX-35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Actualizare document" vertex="1">
+          <mxGeometry relative="1" x="0.0142" y="-1" as="geometry">
+            <mxPoint x="6" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0d_N124WXisdX2VLPl1N-34" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="429.995" />
+            </Array>
+            <mxPoint x="310" y="429.995" as="sourcePoint" />
+            <mxPoint x="570" y="429.995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0d_N124WXisdX2VLPl1N-35" connectable="0" parent="0d_N124WXisdX2VLPl1N-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Formular cu informatii despre procesul de mentenanta" vertex="1">
+          <mxGeometry relative="1" x="-0.265" as="geometry">
+            <mxPoint x="27" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0d_N124WXisdX2VLPl1N-37" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="569.75" y="480" as="sourcePoint" />
+            <mxPoint x="310.25" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0d_N124WXisdX2VLPl1N-38" connectable="0" parent="0d_N124WXisdX2VLPl1N-37" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Completare campuri" vertex="1">
+          <mxGeometry relative="1" x="0.0388" y="7" as="geometry">
+            <mxPoint y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0d_N124WXisdX2VLPl1N-39" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="M-cpnbVScWtrmfGU0kzX-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="569.75" y="270" as="sourcePoint" />
+            <mxPoint x="310.25" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
