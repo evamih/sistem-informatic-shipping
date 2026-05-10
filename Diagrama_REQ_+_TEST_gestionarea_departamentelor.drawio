@@ -1,0 +1,475 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0">
+  <diagram name="Page-1" id="TIsxSNj9DVoVJ7x2Jav4">
+    <mxGraphModel dx="1369" dy="2524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CoMKM3UgeIEsxedEKar0-7" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="REQ 3" vertex="1">
+          <mxGeometry height="80" width="200" x="40" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sistemul trebuie sa-i permita administratorului sa gestioneze fiecare departament si angajat" vertex="1">
+          <mxGeometry height="60" width="200" x="40" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-14" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="REQ 3_1_1" vertex="1">
+          <mxGeometry height="90" width="200" x="620.0000000000001" y="-260" as="geometry">
+            <mxRectangle height="30" width="100" x="680" y="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-15" parent="CoMKM3UgeIEsxedEKar0-14" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sistemul trebuie sa-i permita administratorului sa vizualizeze fiecare departament si detalii despre aceasta" vertex="1">
+          <mxGeometry height="70" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-16" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="REQ 3_3" vertex="1">
+          <mxGeometry height="80" width="200" x="310" y="-40" as="geometry">
+            <mxRectangle height="30" width="90" x="370" y="300" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-17" parent="CoMKM3UgeIEsxedEKar0-16" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sistemul trebuie sa-i permita administratorului sa adauge angajati in departament" vertex="1">
+          <mxGeometry height="60" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-18" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="REQ 3_4" vertex="1">
+          <mxGeometry height="80" width="200" x="310" y="70" as="geometry">
+            <mxRectangle height="30" width="90" x="370" y="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-19" parent="CoMKM3UgeIEsxedEKar0-18" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sistemul trebuie sa-i permita administratorului sa adauge angajati intr-o echipa" vertex="1">
+          <mxGeometry height="60" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-20" parent="1" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="125" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-21" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="310" y="-260" as="geometry" />
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-10" parent="CoMKM3UgeIEsxedEKar0-21" style="swimlane;whiteSpace=wrap;html=1;" value="REQ 3_1" vertex="1">
+          <mxGeometry height="80" width="200" as="geometry">
+            <mxRectangle height="30" width="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-11" parent="CoMKM3UgeIEsxedEKar0-21" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sistemul trebuie sa-i permita administratorului sa selecteze departamentul dorit" vertex="1">
+          <mxGeometry height="60" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-22" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="310" y="-150" as="geometry" />
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-12" parent="CoMKM3UgeIEsxedEKar0-22" style="swimlane;whiteSpace=wrap;html=1;" value="REQ 3_2" vertex="1">
+          <mxGeometry height="80" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-13" parent="CoMKM3UgeIEsxedEKar0-22" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sistemul trebuie sa-i permita administratorului sa adauge sau sa stearga un departament" vertex="1">
+          <mxGeometry height="60" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-23" parent="1" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="170" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-24" parent="1" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="230" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-25" parent="1" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="240" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-26" edge="1" parent="1" source="CoMKM3UgeIEsxedEKar0-20" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="CoMKM3UgeIEsxedEKar0-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="480" y="290" as="sourcePoint" />
+            <mxPoint x="530" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-33" connectable="0" parent="CoMKM3UgeIEsxedEKar0-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt; contains &amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0041" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-27" edge="1" parent="1" source="CoMKM3UgeIEsxedEKar0-23" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="CoMKM3UgeIEsxedEKar0-13" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340" y="245" as="sourcePoint" />
+            <mxPoint x="500" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-34" connectable="0" parent="CoMKM3UgeIEsxedEKar0-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt; contains &amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="0.082" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-28" edge="1" parent="1" source="CoMKM3UgeIEsxedEKar0-24" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="CoMKM3UgeIEsxedEKar0-17" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="315" as="sourcePoint" />
+            <mxPoint x="490" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-35" connectable="0" parent="CoMKM3UgeIEsxedEKar0-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt; contains &amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1389" y="2" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-29" edge="1" parent="1" source="CoMKM3UgeIEsxedEKar0-25" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="CoMKM3UgeIEsxedEKar0-19" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="300" y="395" as="sourcePoint" />
+            <mxPoint x="460" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-36" connectable="0" parent="CoMKM3UgeIEsxedEKar0-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt; contains &amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0696" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-30" parent="1" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="510.0000000000001" y="-225" as="geometry" />
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-32" edge="1" parent="1" source="CoMKM3UgeIEsxedEKar0-30" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="CoMKM3UgeIEsxedEKar0-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="540.0000000000001" y="-180" as="sourcePoint" />
+            <mxPoint x="460.0000000000001" y="-90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-37" connectable="0" parent="CoMKM3UgeIEsxedEKar0-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt; contains &amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="0.067" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XJhckrTz45wn6472fQh2-3" edge="1" parent="1" source="XJhckrTz45wn6472fQh2-8" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="CoMKM3UgeIEsxedEKar0-19" value="&amp;lt;&amp;lt;verify&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660.0000000000001" y="120" as="sourcePoint" />
+            <mxPoint x="530.0000000000001" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XJhckrTz45wn6472fQh2-4" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="100" width="200" x="620.0000000000001" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XJhckrTz45wn6472fQh2-5" parent="XJhckrTz45wn6472fQh2-4" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;testCase&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="XJhckrTz45wn6472fQh2-6" parent="XJhckrTz45wn6472fQh2-4" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="Test 3_4" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="XJhckrTz45wn6472fQh2-7" parent="XJhckrTz45wn6472fQh2-4" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="XJhckrTz45wn6472fQh2-8" parent="XJhckrTz45wn6472fQh2-4" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Angajații sunt adăugați corect în echipa selectată" vertex="1">
+          <mxGeometry height="58" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="XJhckrTz45wn6472fQh2-9" edge="1" parent="1" source="XJhckrTz45wn6472fQh2-14" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="CoMKM3UgeIEsxedEKar0-17" value="&amp;lt;&amp;lt;verify&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660.0000000000001" as="sourcePoint" />
+            <mxPoint x="510.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XJhckrTz45wn6472fQh2-10" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="100" width="200" x="620.0000000000001" y="-50" as="geometry" />
+        </mxCell>
+        <mxCell id="XJhckrTz45wn6472fQh2-11" parent="XJhckrTz45wn6472fQh2-10" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;testCase&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="XJhckrTz45wn6472fQh2-12" parent="XJhckrTz45wn6472fQh2-10" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="Test 3_3" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="XJhckrTz45wn6472fQh2-13" parent="XJhckrTz45wn6472fQh2-10" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="XJhckrTz45wn6472fQh2-14" parent="XJhckrTz45wn6472fQh2-10" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Angajații sunt asociați corect departamentului selectat" vertex="1">
+          <mxGeometry height="58" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="XJhckrTz45wn6472fQh2-15" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="100" width="200" x="620.0000000000001" y="-160" as="geometry" />
+        </mxCell>
+        <mxCell id="XJhckrTz45wn6472fQh2-16" parent="XJhckrTz45wn6472fQh2-15" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;testCase&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="XJhckrTz45wn6472fQh2-17" parent="XJhckrTz45wn6472fQh2-15" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="Test 3_2" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="XJhckrTz45wn6472fQh2-18" parent="XJhckrTz45wn6472fQh2-15" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="XJhckrTz45wn6472fQh2-19" parent="XJhckrTz45wn6472fQh2-15" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="&lt;div&gt;Departamentul este creat sau eliminat corect din sistem&lt;/div&gt;" vertex="1">
+          <mxGeometry height="58" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="XJhckrTz45wn6472fQh2-20" edge="1" parent="1" source="XJhckrTz45wn6472fQh2-19" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="CoMKM3UgeIEsxedEKar0-13" value="&amp;lt;&amp;lt;verify&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="655.0000000000001" y="-110" as="sourcePoint" />
+            <mxPoint x="525.0000000000001" y="-107" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XJhckrTz45wn6472fQh2-29" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="100" width="200" x="310" y="-400" as="geometry" />
+        </mxCell>
+        <mxCell id="XJhckrTz45wn6472fQh2-30" parent="XJhckrTz45wn6472fQh2-29" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;testCase&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="XJhckrTz45wn6472fQh2-31" parent="XJhckrTz45wn6472fQh2-29" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="Test 3_1" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="XJhckrTz45wn6472fQh2-32" parent="XJhckrTz45wn6472fQh2-29" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="XJhckrTz45wn6472fQh2-33" parent="XJhckrTz45wn6472fQh2-29" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Administratorul poate selecta un departament valid." vertex="1">
+          <mxGeometry height="58" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="XJhckrTz45wn6472fQh2-34" edge="1" parent="1" source="XJhckrTz45wn6472fQh2-33" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="CoMKM3UgeIEsxedEKar0-10" value="&amp;lt;&amp;lt;verify&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="655.0000000000001" y="-230" as="sourcePoint" />
+            <mxPoint x="410" y="-260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XJhckrTz45wn6472fQh2-35" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="100" width="200" x="30" y="-215" as="geometry" />
+        </mxCell>
+        <mxCell id="XJhckrTz45wn6472fQh2-36" parent="XJhckrTz45wn6472fQh2-35" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;testCase&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="XJhckrTz45wn6472fQh2-37" parent="XJhckrTz45wn6472fQh2-35" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="Test 3" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="XJhckrTz45wn6472fQh2-38" parent="XJhckrTz45wn6472fQh2-35" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="XJhckrTz45wn6472fQh2-39" parent="XJhckrTz45wn6472fQh2-35" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Administratorul poate accesa și administra toate departamentele și angajații" vertex="1">
+          <mxGeometry height="58" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="XJhckrTz45wn6472fQh2-40" edge="1" parent="1" source="XJhckrTz45wn6472fQh2-39" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="CoMKM3UgeIEsxedEKar0-7" value="&amp;lt;&amp;lt;verify&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="310" as="sourcePoint" />
+            <mxPoint x="140" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-3" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="REQ 3_7" vertex="1">
+          <mxGeometry height="90" width="200" x="313.49" y="400" as="geometry">
+            <mxRectangle height="30" width="90" x="370" y="300" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-4" parent="sBLs5ktSvBl9bfHfBLAm-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sistemul trebuie sa-i permita administratorului sa adauge instrumente software in departament" vertex="1">
+          <mxGeometry height="70" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-5" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="REQ 3_8" vertex="1">
+          <mxGeometry height="100" width="200" x="313.49" y="510" as="geometry">
+            <mxRectangle height="30" width="90" x="370" y="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-6" parent="sBLs5ktSvBl9bfHfBLAm-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sistemul trebuie sa-i permita administratorului sa elimine instrumente software din departament" vertex="1">
+          <mxGeometry height="80" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-7" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="313.49" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-8" parent="sBLs5ktSvBl9bfHfBLAm-7" style="swimlane;whiteSpace=wrap;html=1;" value="REQ 3_5" vertex="1">
+          <mxGeometry height="80" width="200" as="geometry">
+            <mxRectangle height="30" width="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-9" parent="sBLs5ktSvBl9bfHfBLAm-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sistemul trebuie sa-i permita administratorului sa elimine angajati din departament" vertex="1">
+          <mxGeometry height="60" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-10" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="313.49" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-11" parent="sBLs5ktSvBl9bfHfBLAm-10" style="swimlane;whiteSpace=wrap;html=1;" value="REQ 3_6" vertex="1">
+          <mxGeometry height="80" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-12" parent="sBLs5ktSvBl9bfHfBLAm-10" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sistemul trebuie sa-i permita administratorului sa elimine angajati dintr-o echipa" vertex="1">
+          <mxGeometry height="60" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-16" edge="1" parent="1" source="sBLs5ktSvBl9bfHfBLAm-21" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="sBLs5ktSvBl9bfHfBLAm-6" value="&amp;lt;&amp;lt;verify&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="663.49" y="560" as="sourcePoint" />
+            <mxPoint x="533.49" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-17" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="100" width="200" x="620" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-18" parent="sBLs5ktSvBl9bfHfBLAm-17" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;testCase&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-19" parent="sBLs5ktSvBl9bfHfBLAm-17" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="Test 3_8" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-20" parent="sBLs5ktSvBl9bfHfBLAm-17" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-21" parent="sBLs5ktSvBl9bfHfBLAm-17" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Instrumentele software sunt&amp;nbsp; eliminate corect din departament" vertex="1">
+          <mxGeometry height="58" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-22" edge="1" parent="1" source="sBLs5ktSvBl9bfHfBLAm-27" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="sBLs5ktSvBl9bfHfBLAm-4" value="&amp;lt;&amp;lt;verify&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="663.49" y="440" as="sourcePoint" />
+            <mxPoint x="513.49" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-23" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="100" width="200" x="620" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-24" parent="sBLs5ktSvBl9bfHfBLAm-23" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;testCase&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-25" parent="sBLs5ktSvBl9bfHfBLAm-23" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="Test 3_7" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-26" parent="sBLs5ktSvBl9bfHfBLAm-23" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-27" parent="sBLs5ktSvBl9bfHfBLAm-23" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Instrumentele software sunt&amp;nbsp; &amp;nbsp;asociate corect departamentului." vertex="1">
+          <mxGeometry height="58" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-28" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="100" width="200" x="620" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-29" parent="sBLs5ktSvBl9bfHfBLAm-28" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;testCase&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-30" parent="sBLs5ktSvBl9bfHfBLAm-28" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="Test 3_6" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-31" parent="sBLs5ktSvBl9bfHfBLAm-28" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-32" parent="sBLs5ktSvBl9bfHfBLAm-28" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="&lt;div&gt;Angajatul este eliminat corect din echipa selectată.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="58" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-33" edge="1" parent="1" source="sBLs5ktSvBl9bfHfBLAm-32" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="sBLs5ktSvBl9bfHfBLAm-12" value="&amp;lt;&amp;lt;verify&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="658.49" y="330" as="sourcePoint" />
+            <mxPoint x="528.49" y="333" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-67" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="100" width="200" x="620" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-68" parent="sBLs5ktSvBl9bfHfBLAm-67" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;testCase&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-69" parent="sBLs5ktSvBl9bfHfBLAm-67" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="Test 3_5" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-70" parent="sBLs5ktSvBl9bfHfBLAm-67" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-71" parent="sBLs5ktSvBl9bfHfBLAm-67" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="&lt;div&gt;Angajatul este eliminat corect din departament.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="58" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-72" edge="1" parent="1" source="sBLs5ktSvBl9bfHfBLAm-71" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" value="&amp;lt;&amp;lt;verify&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="658.49" y="230" as="sourcePoint" />
+            <mxPoint x="513.49" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-74" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="REQ 3_9" vertex="1">
+          <mxGeometry height="90" width="200" x="20" y="390" as="geometry">
+            <mxRectangle height="30" width="90" x="370" y="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-75" parent="sBLs5ktSvBl9bfHfBLAm-74" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sistemul trebuie sa-i afiseze administratorului actiunile pe care le poate face in cadrul departamentelor" vertex="1">
+          <mxGeometry height="70" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-76" edge="1" parent="1" source="sBLs5ktSvBl9bfHfBLAm-78" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="sBLs5ktSvBl9bfHfBLAm-75" value="&amp;lt;&amp;lt;verify&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="470" as="sourcePoint" />
+            <mxPoint x="260" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-77" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="100" width="200" x="20" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-78" parent="sBLs5ktSvBl9bfHfBLAm-77" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;testCase&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-79" parent="sBLs5ktSvBl9bfHfBLAm-77" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="Test 3_9" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-80" parent="sBLs5ktSvBl9bfHfBLAm-77" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-81" parent="sBLs5ktSvBl9bfHfBLAm-77" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Sistemul afișează toate acțiunile disponibile administratorului" vertex="1">
+          <mxGeometry height="58" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-83" parent="1" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="240" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-84" edge="1" parent="1" source="sBLs5ktSvBl9bfHfBLAm-83" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="sBLs5ktSvBl9bfHfBLAm-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="570" as="sourcePoint" />
+            <mxPoint x="340" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-85" connectable="0" parent="sBLs5ktSvBl9bfHfBLAm-84" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt; contains &amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0696" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-86" parent="1" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="240" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-87" edge="1" parent="1" source="sBLs5ktSvBl9bfHfBLAm-86" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="sBLs5ktSvBl9bfHfBLAm-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="610" as="sourcePoint" />
+            <mxPoint x="340" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-88" connectable="0" parent="sBLs5ktSvBl9bfHfBLAm-87" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt; contains &amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0696" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-89" parent="1" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="198.5" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-90" edge="1" parent="1" source="sBLs5ktSvBl9bfHfBLAm-89" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="sBLs5ktSvBl9bfHfBLAm-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="288.5" y="620" as="sourcePoint" />
+            <mxPoint x="271.5" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-91" connectable="0" parent="sBLs5ktSvBl9bfHfBLAm-90" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt; contains &amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0696" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-92" parent="1" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="170" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-93" edge="1" parent="1" source="sBLs5ktSvBl9bfHfBLAm-92" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="sBLs5ktSvBl9bfHfBLAm-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="260" y="620" as="sourcePoint" />
+            <mxPoint x="243" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-94" connectable="0" parent="sBLs5ktSvBl9bfHfBLAm-93" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt; contains &amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0696" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-95" parent="1" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="125.5" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-96" edge="1" parent="1" source="sBLs5ktSvBl9bfHfBLAm-95" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="sBLs5ktSvBl9bfHfBLAm-74" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="215.5" y="620" as="sourcePoint" />
+            <mxPoint x="198.5" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-97" connectable="0" parent="sBLs5ktSvBl9bfHfBLAm-96" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt; contains &amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0696" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-98" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="100" width="200" x="620" y="-400" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-99" parent="sBLs5ktSvBl9bfHfBLAm-98" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;testCase&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-100" parent="sBLs5ktSvBl9bfHfBLAm-98" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="Test 3_1_1" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-101" parent="sBLs5ktSvBl9bfHfBLAm-98" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-102" parent="sBLs5ktSvBl9bfHfBLAm-98" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Sistemul afișează corect informațiile despre departamente." vertex="1">
+          <mxGeometry height="58" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="sBLs5ktSvBl9bfHfBLAm-103" edge="1" parent="1" source="sBLs5ktSvBl9bfHfBLAm-102" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" value="&amp;lt;&amp;lt;verify&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="965.0000000000001" y="-230" as="sourcePoint" />
+            <mxPoint x="720" y="-260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
