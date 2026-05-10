@@ -1,0 +1,164 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="2nU4x080_M4ri1dGTiX3">
+    <mxGraphModel dx="968" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jkY8LUip1UDGiL-55Ha3-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="Sistem" vertex="1">
+          <mxGeometry height="530" width="100" x="260" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jkY8LUip1UDGiL-55Ha3-31" parent="jkY8LUip1UDGiL-55Ha3-1" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="90" width="10" x="45" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jkY8LUip1UDGiL-55Ha3-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Inregistrare facturi&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="370" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jkY8LUip1UDGiL-55Ha3-3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="Angajat financiar" vertex="1">
+          <mxGeometry height="520" width="100" x="520" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jkY8LUip1UDGiL-55Ha3-8" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="310.25" y="210" as="sourcePoint" />
+            <mxPoint x="569.75" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkY8LUip1UDGiL-55Ha3-9" connectable="0" parent="jkY8LUip1UDGiL-55Ha3-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Încărcare date asociate căutării" vertex="1">
+          <mxGeometry relative="1" x="-0.265" as="geometry">
+            <mxPoint x="27" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkY8LUip1UDGiL-55Ha3-10" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" value="Trimitere spre înregistrare contabilitate">
+          <mxGeometry relative="1" x="-0.0019" as="geometry">
+            <mxPoint x="1" as="offset" />
+            <Array as="points">
+              <mxPoint x="420.3399999999999" y="430" />
+            </Array>
+            <mxPoint x="569.84" y="430" as="sourcePoint" />
+            <mxPoint x="310.150344827586" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkY8LUip1UDGiL-55Ha3-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="569.5" y="240" as="sourcePoint" />
+            <mxPoint x="310" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkY8LUip1UDGiL-55Ha3-14" connectable="0" parent="jkY8LUip1UDGiL-55Ha3-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Introducere date specifice facturii" vertex="1">
+          <mxGeometry relative="1" x="-0.265" as="geometry">
+            <mxPoint x="-27" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkY8LUip1UDGiL-55Ha3-19" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="310" y="330" as="sourcePoint" />
+            <mxPoint x="570" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkY8LUip1UDGiL-55Ha3-20" connectable="0" parent="jkY8LUip1UDGiL-55Ha3-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Returnare rezultatul procesării" vertex="1">
+          <mxGeometry relative="1" x="-0.265" as="geometry">
+            <mxPoint x="27" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkY8LUip1UDGiL-55Ha3-21" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="360" />
+              <mxPoint x="630" y="380" />
+            </Array>
+            <mxPoint x="570" y="360" as="sourcePoint" />
+            <mxPoint x="570" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkY8LUip1UDGiL-55Ha3-22" connectable="0" parent="jkY8LUip1UDGiL-55Ha3-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Verificare integritate" vertex="1">
+          <mxGeometry relative="1" x="0.0142" y="-1" as="geometry">
+            <mxPoint x="-29" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkY8LUip1UDGiL-55Ha3-23" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="460" />
+              <mxPoint x="370" y="480" />
+            </Array>
+            <mxPoint x="310" y="460" as="sourcePoint" />
+            <mxPoint x="310" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkY8LUip1UDGiL-55Ha3-24" connectable="0" parent="jkY8LUip1UDGiL-55Ha3-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Integrare în sistemul contabil" vertex="1">
+          <mxGeometry relative="1" x="0.0142" y="-1" as="geometry">
+            <mxPoint x="-59" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkY8LUip1UDGiL-55Ha3-25" parent="1" style="html=1;shape=mxgraph.sysml.package;html=1;overflow=fill;whiteSpace=wrap;fillColor=none;" value="&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;&lt;b&gt;Alt&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="230" width="460" x="210" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="jkY8LUip1UDGiL-55Ha3-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="if procesată corect" vertex="1">
+          <mxGeometry height="30" width="90" x="580" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="jkY8LUip1UDGiL-55Ha3-27" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="580" />
+              <mxPoint x="370" y="600" />
+            </Array>
+            <mxPoint x="310" y="580" as="sourcePoint" />
+            <mxPoint x="310" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkY8LUip1UDGiL-55Ha3-28" connectable="0" parent="jkY8LUip1UDGiL-55Ha3-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Actualizare arhivă" vertex="1">
+          <mxGeometry relative="1" x="0.0142" y="-1" as="geometry">
+            <mxPoint x="-39" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkY8LUip1UDGiL-55Ha3-29" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="570" y="180" as="sourcePoint" />
+            <mxPoint x="310" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkY8LUip1UDGiL-55Ha3-30" connectable="0" parent="jkY8LUip1UDGiL-55Ha3-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Selectare navă, voiaj, client, tip factură" vertex="1">
+          <mxGeometry relative="1" x="-0.265" as="geometry">
+            <mxPoint x="-27" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkY8LUip1UDGiL-55Ha3-32" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="270" />
+              <mxPoint x="380" y="290" />
+            </Array>
+            <mxPoint x="320" y="270" as="sourcePoint" />
+            <mxPoint x="320" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkY8LUip1UDGiL-55Ha3-33" connectable="0" parent="jkY8LUip1UDGiL-55Ha3-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;Procesare și validare factură în&lt;/div&gt;&lt;div&gt;&amp;nbsp;modulul integrat&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0142" y="-1" as="geometry">
+            <mxPoint x="-159" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkY8LUip1UDGiL-55Ha3-38" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="310" y="500" as="sourcePoint" />
+            <mxPoint x="570" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkY8LUip1UDGiL-55Ha3-39" connectable="0" parent="jkY8LUip1UDGiL-55Ha3-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Confirmare integrare completă" vertex="1">
+          <mxGeometry relative="1" x="-0.265" as="geometry">
+            <mxPoint x="27" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkY8LUip1UDGiL-55Ha3-41" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="310" y="530" as="sourcePoint" />
+            <mxPoint x="570" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkY8LUip1UDGiL-55Ha3-42" connectable="0" parent="jkY8LUip1UDGiL-55Ha3-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Trimitere numărul facturii" vertex="1">
+          <mxGeometry relative="1" x="-0.265" as="geometry">
+            <mxPoint x="27" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
