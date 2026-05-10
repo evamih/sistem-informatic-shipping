@@ -1,0 +1,277 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="gY0DF196TOHFvdFUC_RV">
+    <mxGraphModel dx="1191" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-1" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="120" width="200" x="410" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-2" parent="GqT5eX1Tq9REwFT4Do9m-1" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-3" parent="GqT5eX1Tq9REwFT4Do9m-1" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="REQ-5" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-4" parent="GqT5eX1Tq9REwFT4Do9m-1" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-5" parent="GqT5eX1Tq9REwFT4Do9m-1" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Sistemul trebuie sa permita operatorului financiar inregistrarea facturilor aferente operatiunilor de voiaj" vertex="1">
+          <mxGeometry height="78" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-6" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="120" width="200" x="780" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-7" parent="GqT5eX1Tq9REwFT4Do9m-6" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-8" parent="GqT5eX1Tq9REwFT4Do9m-6" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="REQ-5.1" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-9" parent="GqT5eX1Tq9REwFT4Do9m-6" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-10" parent="GqT5eX1Tq9REwFT4Do9m-6" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Sistemul trebuie sa permita operatorului financiar selectarea datelor pentru care se inregistreaza factura" vertex="1">
+          <mxGeometry height="78" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-11" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="120" width="200" x="1110" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-12" parent="GqT5eX1Tq9REwFT4Do9m-11" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-13" parent="GqT5eX1Tq9REwFT4Do9m-11" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="REQ-5.1.1" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-14" parent="GqT5eX1Tq9REwFT4Do9m-11" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-15" parent="GqT5eX1Tq9REwFT4Do9m-11" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="&lt;div&gt;Sistemul trebuie sa afiseze operatorului financiar lista voiajelor active si informatiile asociate&amp;nbsp;&lt;/div&gt;&lt;div&gt;acestora&lt;/div&gt;" vertex="1">
+          <mxGeometry height="78" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-16" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="120" width="200" x="1450" y="314" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-17" parent="GqT5eX1Tq9REwFT4Do9m-16" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-18" parent="GqT5eX1Tq9REwFT4Do9m-16" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="REQ-5.2.1.1" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-19" parent="GqT5eX1Tq9REwFT4Do9m-16" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-20" parent="GqT5eX1Tq9REwFT4Do9m-16" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Sistemul trebuie să valideze formatul datelor introduse și completarea câmpurilor obligatorii" vertex="1">
+          <mxGeometry height="78" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-21" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="120" width="200" x="780" y="314" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-22" parent="GqT5eX1Tq9REwFT4Do9m-21" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-23" parent="GqT5eX1Tq9REwFT4Do9m-21" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="REQ-5.2" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-24" parent="GqT5eX1Tq9REwFT4Do9m-21" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-25" parent="GqT5eX1Tq9REwFT4Do9m-21" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="&lt;div&gt;Sistemul trebuie sa proceseze&amp;nbsp;&lt;/div&gt;&lt;div&gt;factura prin asocierea cu serviciile si costurile aferente voiajului selectat&lt;/div&gt;" vertex="1">
+          <mxGeometry height="78" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-26" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="120" width="200" x="1110" y="313" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-27" parent="GqT5eX1Tq9REwFT4Do9m-26" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-28" parent="GqT5eX1Tq9REwFT4Do9m-26" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="REQ-5.2.1" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-29" parent="GqT5eX1Tq9REwFT4Do9m-26" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-30" parent="GqT5eX1Tq9REwFT4Do9m-26" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Sistemul trebuie să permită introducerea datelor generale ale facturii (număr, dată, emitent, monedă, valoare)" vertex="1">
+          <mxGeometry height="78" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-31" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="120" width="200" x="780" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-32" parent="GqT5eX1Tq9REwFT4Do9m-31" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-33" parent="GqT5eX1Tq9REwFT4Do9m-31" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="REQ-5.3" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-34" parent="GqT5eX1Tq9REwFT4Do9m-31" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-35" parent="GqT5eX1Tq9REwFT4Do9m-31" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Sistemul trebuie sa permita operatorului financiar verificarea si actualizarea informatiilor facturii inainte de salvare" vertex="1">
+          <mxGeometry height="78" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-36" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="120" width="200" x="1110" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-37" parent="GqT5eX1Tq9REwFT4Do9m-36" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-38" parent="GqT5eX1Tq9REwFT4Do9m-36" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="REQ-5.4.1" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-39" parent="GqT5eX1Tq9REwFT4Do9m-36" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-40" parent="GqT5eX1Tq9REwFT4Do9m-36" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Sistemul trebuie sa actualizeze statusul facturii in functie de disponibilitatea sistemului (Draft, In asteptare, Inregistrata)" vertex="1">
+          <mxGeometry height="78" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-41" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="120" width="200" x="780" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-42" parent="GqT5eX1Tq9REwFT4Do9m-41" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-43" parent="GqT5eX1Tq9REwFT4Do9m-41" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="REQ-5.4" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-44" parent="GqT5eX1Tq9REwFT4Do9m-41" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-45" parent="GqT5eX1Tq9REwFT4Do9m-41" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="&lt;div&gt;Sistemul trebuie sa transmita datele facturii catre sistemul de&amp;nbsp;&lt;/div&gt;&lt;div&gt;contabilitate integrat&lt;/div&gt;" vertex="1">
+          <mxGeometry height="78" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-46" edge="1" parent="1" source="GqT5eX1Tq9REwFT4Do9m-10" style="endArrow=circlePlus;endSize=5;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endFill=0;" target="GqT5eX1Tq9REwFT4Do9m-5" value="&amp;lt;&amp;lt;contains&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="360" as="sourcePoint" />
+            <mxPoint x="630" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-47" edge="1" parent="1" source="GqT5eX1Tq9REwFT4Do9m-25" style="endArrow=circlePlus;edgeStyle=none;endSize=5;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endFill=0;" target="GqT5eX1Tq9REwFT4Do9m-5" value="&amp;lt;&amp;lt;contains&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="430" as="sourcePoint" />
+            <mxPoint x="660" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-48" edge="1" parent="1" source="GqT5eX1Tq9REwFT4Do9m-45" style="endArrow=circlePlus;edgeStyle=none;endSize=5;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;endFill=0;" target="GqT5eX1Tq9REwFT4Do9m-5" value="&amp;lt;&amp;lt;contains&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="550" as="sourcePoint" />
+            <mxPoint x="720" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-49" edge="1" parent="1" source="GqT5eX1Tq9REwFT4Do9m-35" style="endArrow=circlePlus;edgeStyle=none;endSize=5;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;endFill=0;" target="GqT5eX1Tq9REwFT4Do9m-5" value="&amp;lt;&amp;lt;contains&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="480" as="sourcePoint" />
+            <mxPoint x="690" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-50" edge="1" parent="1" style="endArrow=circlePlus;endSize=5;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endFill=0;" value="&amp;lt;&amp;lt;contains&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1110" y="70.00000000000011" as="sourcePoint" />
+            <mxPoint x="980" y="210.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-51" edge="1" parent="1" source="GqT5eX1Tq9REwFT4Do9m-30" style="endArrow=circlePlus;endSize=5;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endFill=0;" target="GqT5eX1Tq9REwFT4Do9m-25" value="&amp;lt;&amp;lt;contains&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1210" y="350" as="sourcePoint" />
+            <mxPoint x="1040" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-52" edge="1" parent="1" source="GqT5eX1Tq9REwFT4Do9m-40" style="endArrow=circlePlus;endSize=5;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endFill=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="GqT5eX1Tq9REwFT4Do9m-45" value="&amp;lt;&amp;lt;contains&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1060" y="510" as="sourcePoint" />
+            <mxPoint x="1040" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-53" edge="1" parent="1" source="GqT5eX1Tq9REwFT4Do9m-20" style="endArrow=circlePlus;endSize=5;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;endFill=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="GqT5eX1Tq9REwFT4Do9m-30" value="&amp;lt;&amp;lt;contains&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1230" y="700" as="sourcePoint" />
+            <mxPoint x="1330" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-54" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="120" width="200" x="1450" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-55" parent="GqT5eX1Tq9REwFT4Do9m-54" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-56" parent="GqT5eX1Tq9REwFT4Do9m-54" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="REQ-5.1.1.2" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-57" parent="GqT5eX1Tq9REwFT4Do9m-54" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-58" parent="GqT5eX1Tq9REwFT4Do9m-54" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Sistemul trebuie sa afiseze lista clientilor, furnizorilor si tipurilor de servicii disponibile pentru voiajul selectat" vertex="1">
+          <mxGeometry height="78" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-59" edge="1" parent="1" source="GqT5eX1Tq9REwFT4Do9m-58" style="endArrow=circlePlus;endSize=5;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" target="GqT5eX1Tq9REwFT4Do9m-15" value="&amp;lt;&amp;lt;contains&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1110" y="250" as="sourcePoint" />
+            <mxPoint x="980" y="251" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-60" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="120" width="200" x="1450" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-61" parent="GqT5eX1Tq9REwFT4Do9m-60" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-62" parent="GqT5eX1Tq9REwFT4Do9m-60" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="REQ-5.1.1.1" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-63" parent="GqT5eX1Tq9REwFT4Do9m-60" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-64" parent="GqT5eX1Tq9REwFT4Do9m-60" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="&lt;div&gt;Sistemul trebuie să completeze automat datele existente despre&amp;nbsp;&lt;/div&gt;&lt;div&gt;voiaj, navă și partenerii implicați&lt;/div&gt;" vertex="1">
+          <mxGeometry height="78" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-65" edge="1" parent="1" style="endArrow=circlePlus;endSize=5;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;endFill=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" value="&amp;lt;&amp;lt;contains&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1450" y="90.5" as="sourcePoint" />
+            <mxPoint x="1310" y="89.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-66" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="120" width="200" x="1110" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-67" parent="GqT5eX1Tq9REwFT4Do9m-66" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-68" parent="GqT5eX1Tq9REwFT4Do9m-66" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="REQ-5.3.1" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-69" parent="GqT5eX1Tq9REwFT4Do9m-66" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-70" parent="GqT5eX1Tq9REwFT4Do9m-66" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="&lt;div&gt;Sistemul trebuie sa adauge in istoric fiecare modificare adusa asupra facturii impreuna cu utilizatorul&amp;nbsp;&lt;/div&gt;&lt;div&gt;care a efectuat-o&lt;/div&gt;" vertex="1">
+          <mxGeometry height="78" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-71" edge="1" parent="1" style="endArrow=circlePlus;endSize=5;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endFill=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" value="&amp;lt;&amp;lt;contains&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1110" y="539.52" as="sourcePoint" />
+            <mxPoint x="980" y="539.52" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-72" edge="1" parent="1" source="GqT5eX1Tq9REwFT4Do9m-77" style="endArrow=circlePlus;endSize=5;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;endFill=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="GqT5eX1Tq9REwFT4Do9m-5" value="&amp;lt;&amp;lt;contains&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="790" as="sourcePoint" />
+            <mxPoint x="830" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-73" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="120" width="200" x="780" y="767" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-74" parent="GqT5eX1Tq9REwFT4Do9m-73" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-75" parent="GqT5eX1Tq9REwFT4Do9m-73" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="REQ-5.5" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-76" parent="GqT5eX1Tq9REwFT4Do9m-73" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="GqT5eX1Tq9REwFT4Do9m-77" parent="GqT5eX1Tq9REwFT4Do9m-73" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Sistemul trebuie sa arhiveze factura impreuna cu istoricul modificarilor efectuate" vertex="1">
+          <mxGeometry height="78" width="200" y="42" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
