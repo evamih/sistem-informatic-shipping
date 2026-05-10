@@ -1,0 +1,686 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0">
+  <diagram name="Page-1" id="TIsxSNj9DVoVJ7x2Jav4">
+    <mxGraphModel dx="1369" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CoMKM3UgeIEsxedEKar0-7" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="REQ 6" vertex="1">
+          <mxGeometry height="80" width="200" x="10" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sistemul trebuie să-i permită administratorului gestionarea conturilor și drepturilor angajaților" vertex="1">
+          <mxGeometry height="60" width="200" x="10" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-14" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="REQ 6_1_1" vertex="1">
+          <mxGeometry height="80" width="200" x="649.81" y="160" as="geometry">
+            <mxRectangle height="30" width="100" x="680" y="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-15" parent="CoMKM3UgeIEsxedEKar0-14" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sistemul trebuie să-i permită administratorului selectarea unui cont de utilizator" vertex="1">
+          <mxGeometry height="60" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-16" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="REQ 6_3" vertex="1">
+          <mxGeometry height="80" width="200" x="340" y="570" as="geometry">
+            <mxRectangle height="30" width="90" x="370" y="300" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-17" parent="CoMKM3UgeIEsxedEKar0-16" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sistemul trebuie să-i permită administratorului resetarea parolei unui cont" vertex="1">
+          <mxGeometry height="60" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-18" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="REQ 6&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;_4&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="340" y="695" as="geometry">
+            <mxRectangle height="30" width="90" x="370" y="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-19" parent="CoMKM3UgeIEsxedEKar0-18" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sistemul trebuie să-i permită administratorului blocarea sau deblocarea unui cont" vertex="1">
+          <mxGeometry height="60" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-20" parent="1" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="160" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-21" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="340" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-10" parent="CoMKM3UgeIEsxedEKar0-21" style="swimlane;whiteSpace=wrap;html=1;" value="REQ 6_1" vertex="1">
+          <mxGeometry height="80" width="200" as="geometry">
+            <mxRectangle height="30" width="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-11" parent="CoMKM3UgeIEsxedEKar0-21" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sistemul trebuie să afișeze administratorului lista conturilor existente" vertex="1">
+          <mxGeometry height="60" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-22" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="340" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-12" parent="CoMKM3UgeIEsxedEKar0-22" style="swimlane;whiteSpace=wrap;html=1;" value="REQ 6_2" vertex="1">
+          <mxGeometry height="80" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-13" parent="CoMKM3UgeIEsxedEKar0-22" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sistemul trebuie să-i permită administratorului modificarea drepturilor unui utilizator" vertex="1">
+          <mxGeometry height="60" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-23" parent="1" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="210" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-24" parent="1" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="210" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-25" parent="1" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="210" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-26" edge="1" parent="1" source="CoMKM3UgeIEsxedEKar0-20" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="CoMKM3UgeIEsxedEKar0-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="450" y="610" as="sourcePoint" />
+            <mxPoint x="500" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-33" connectable="0" parent="CoMKM3UgeIEsxedEKar0-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt; contains &amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0041" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-27" edge="1" parent="1" source="CoMKM3UgeIEsxedEKar0-23" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="CoMKM3UgeIEsxedEKar0-13" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="310" y="565" as="sourcePoint" />
+            <mxPoint x="470" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-34" connectable="0" parent="CoMKM3UgeIEsxedEKar0-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt; contains &amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="0.082" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-28" edge="1" parent="1" source="CoMKM3UgeIEsxedEKar0-24" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="CoMKM3UgeIEsxedEKar0-17" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="300" y="635" as="sourcePoint" />
+            <mxPoint x="460" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-35" connectable="0" parent="CoMKM3UgeIEsxedEKar0-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt; contains &amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1389" y="2" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-29" edge="1" parent="1" source="CoMKM3UgeIEsxedEKar0-25" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="CoMKM3UgeIEsxedEKar0-19" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="270" y="715" as="sourcePoint" />
+            <mxPoint x="430" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-36" connectable="0" parent="CoMKM3UgeIEsxedEKar0-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt; contains &amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0696" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-30" parent="1" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="540" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-32" edge="1" parent="1" source="CoMKM3UgeIEsxedEKar0-30" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" target="CoMKM3UgeIEsxedEKar0-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="570" y="330" as="sourcePoint" />
+            <mxPoint x="490" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoMKM3UgeIEsxedEKar0-37" connectable="0" parent="CoMKM3UgeIEsxedEKar0-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt; contains &amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="0.067" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-2" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="REQ 6&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;_5&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="340" y="910" as="geometry">
+            <mxRectangle height="30" width="90" x="370" y="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-3" parent="duZUUpKp-X-Sca9o4KZR-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sistemul trebuie să-i permită administratorului ștergerea unui cont" vertex="1">
+          <mxGeometry height="60" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-4" parent="1" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="210" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-5" edge="1" parent="1" source="duZUUpKp-X-Sca9o4KZR-4" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="duZUUpKp-X-Sca9o4KZR-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="270" y="815" as="sourcePoint" />
+            <mxPoint x="430" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-6" connectable="0" parent="duZUUpKp-X-Sca9o4KZR-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt; contains &amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0696" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-14" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="REQ 6&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;_6&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="338" y="1020" as="geometry">
+            <mxRectangle height="30" width="90" x="370" y="410" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-15" parent="duZUUpKp-X-Sca9o4KZR-14" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sistemul trebuie să-i permită administratorului crearea unui cont nou pentru un angajat" vertex="1">
+          <mxGeometry height="60" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-16" parent="1" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="160" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-17" edge="1" parent="1" source="duZUUpKp-X-Sca9o4KZR-16" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="duZUUpKp-X-Sca9o4KZR-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="270" y="915" as="sourcePoint" />
+            <mxPoint x="430" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-18" connectable="0" parent="duZUUpKp-X-Sca9o4KZR-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt; contains &amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0696" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-19" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="REQ 6_1_2" vertex="1">
+          <mxGeometry height="80" width="200" x="649.81" y="260" as="geometry">
+            <mxRectangle height="30" width="100" x="680" y="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-20" parent="duZUUpKp-X-Sca9o4KZR-19" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sistemul trebuie să afișeze detaliile contului selectat" vertex="1">
+          <mxGeometry height="60" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-21" parent="1" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="540" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-22" edge="1" parent="1" source="duZUUpKp-X-Sca9o4KZR-21" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" target="duZUUpKp-X-Sca9o4KZR-20" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="830" y="470" as="sourcePoint" />
+            <mxPoint x="750" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-23" connectable="0" parent="duZUUpKp-X-Sca9o4KZR-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt; contains &amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="0.067" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-25" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="REQ 6_2_1" vertex="1">
+          <mxGeometry height="80" width="200" x="649.81" y="360" as="geometry">
+            <mxRectangle height="30" width="100" x="680" y="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-26" parent="duZUUpKp-X-Sca9o4KZR-25" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sistemul trebuie să afișeze lista drepturilor disponibile pentru utilizatorul selectat" vertex="1">
+          <mxGeometry height="60" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-27" parent="1" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="540" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-28" edge="1" parent="1" source="duZUUpKp-X-Sca9o4KZR-27" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" target="duZUUpKp-X-Sca9o4KZR-26" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="570" y="640" as="sourcePoint" />
+            <mxPoint x="490" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-29" connectable="0" parent="duZUUpKp-X-Sca9o4KZR-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt; contains &amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="0.067" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-30" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="REQ 6_2_2" vertex="1">
+          <mxGeometry height="80" width="200" x="649.81" y="450" as="geometry">
+            <mxRectangle height="30" width="100" x="680" y="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-31" parent="duZUUpKp-X-Sca9o4KZR-30" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sistemul trebuie să actualizeze drepturile utilizatorului selectat" vertex="1">
+          <mxGeometry height="60" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-32" parent="1" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="540" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-33" edge="1" parent="1" source="duZUUpKp-X-Sca9o4KZR-32" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="duZUUpKp-X-Sca9o4KZR-31" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="830" y="780" as="sourcePoint" />
+            <mxPoint x="750" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-34" connectable="0" parent="duZUUpKp-X-Sca9o4KZR-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt; contains &amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="0.067" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-36" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="REQ 6_3_1" vertex="1">
+          <mxGeometry height="80" width="200" x="649.81" y="650" as="geometry">
+            <mxRectangle height="30" width="100" x="680" y="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-37" parent="duZUUpKp-X-Sca9o4KZR-36" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sistemul trebuie să genereze și să afișeze o parolă temporară pentru utilizator" vertex="1">
+          <mxGeometry height="60" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-38" parent="1" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="540" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-39" edge="1" parent="1" source="duZUUpKp-X-Sca9o4KZR-38" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="duZUUpKp-X-Sca9o4KZR-37" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="830" y="910" as="sourcePoint" />
+            <mxPoint x="750" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-40" connectable="0" parent="duZUUpKp-X-Sca9o4KZR-39" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt; contains &amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="0.067" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-42" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="REQ 6_4_1" vertex="1">
+          <mxGeometry height="80" width="200" x="649.81" y="740" as="geometry">
+            <mxRectangle height="30" width="100" x="680" y="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-43" parent="duZUUpKp-X-Sca9o4KZR-42" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sistemul trebuie să actualizeze starea contului selectat" vertex="1">
+          <mxGeometry height="60" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-44" parent="1" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="540" y="735" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-45" edge="1" parent="1" source="duZUUpKp-X-Sca9o4KZR-44" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="duZUUpKp-X-Sca9o4KZR-43" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="830" y="1050" as="sourcePoint" />
+            <mxPoint x="750" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-46" connectable="0" parent="duZUUpKp-X-Sca9o4KZR-45" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt; contains &amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="0.067" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-47" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="REQ 6_5_1" vertex="1">
+          <mxGeometry height="80" width="200" x="649.81" y="850" as="geometry">
+            <mxRectangle height="30" width="100" x="680" y="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-48" parent="duZUUpKp-X-Sca9o4KZR-47" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sistemul trebuie să solicite confirmarea ștergerii contului selectat" vertex="1">
+          <mxGeometry height="60" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-49" parent="1" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="540" y="945" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-50" edge="1" parent="1" source="duZUUpKp-X-Sca9o4KZR-49" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="duZUUpKp-X-Sca9o4KZR-48" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="830" y="1240" as="sourcePoint" />
+            <mxPoint x="750" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-51" connectable="0" parent="duZUUpKp-X-Sca9o4KZR-50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt; contains &amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="0.067" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-52" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="REQ 6_6_1" vertex="1">
+          <mxGeometry height="80" width="200" x="649.81" y="1050" as="geometry">
+            <mxRectangle height="30" width="100" x="680" y="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-53" parent="duZUUpKp-X-Sca9o4KZR-52" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sistemul trebuie să valideze datele introduse pentru contul nou" vertex="1">
+          <mxGeometry height="60" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-54" parent="1" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="538" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-55" edge="1" parent="1" source="duZUUpKp-X-Sca9o4KZR-54" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="duZUUpKp-X-Sca9o4KZR-53" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="570" y="1230" as="sourcePoint" />
+            <mxPoint x="490" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-56" connectable="0" parent="duZUUpKp-X-Sca9o4KZR-55" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt; contains &amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="0.067" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-57" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="REQ 6_6_2" vertex="1">
+          <mxGeometry height="80" width="200" x="649.81" y="1140" as="geometry">
+            <mxRectangle height="30" width="100" x="680" y="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-58" parent="duZUUpKp-X-Sca9o4KZR-57" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sistemul trebuie să creeze contul și să adauge drepturile selectate" vertex="1">
+          <mxGeometry height="60" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-59" parent="1" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="538" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-60" edge="1" parent="1" source="duZUUpKp-X-Sca9o4KZR-59" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" target="duZUUpKp-X-Sca9o4KZR-58" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="830" y="1370" as="sourcePoint" />
+            <mxPoint x="750" y="1460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-61" connectable="0" parent="duZUUpKp-X-Sca9o4KZR-60" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt; contains &amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="0.067" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-62" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="340" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-63" parent="duZUUpKp-X-Sca9o4KZR-62" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;testCase&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-64" parent="duZUUpKp-X-Sca9o4KZR-62" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="Test 6_1" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-65" parent="duZUUpKp-X-Sca9o4KZR-62" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-66" parent="duZUUpKp-X-Sca9o4KZR-62" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Sunt afișate toate conturile active/inactive&amp;nbsp;" vertex="1">
+          <mxGeometry height="38" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-67" edge="1" parent="1" source="duZUUpKp-X-Sca9o4KZR-66" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" value="&amp;lt;&amp;lt;verify&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="685" y="270" as="sourcePoint" />
+            <mxPoint x="440" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-78" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="340" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-79" parent="duZUUpKp-X-Sca9o4KZR-78" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;testCase&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-80" parent="duZUUpKp-X-Sca9o4KZR-78" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="Test 6_2" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-81" parent="duZUUpKp-X-Sca9o4KZR-78" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-82" parent="duZUUpKp-X-Sca9o4KZR-78" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Drepturile sunt actualizate correct; Modificările sunt salvate în sistem" vertex="1">
+          <mxGeometry height="38" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-83" edge="1" parent="1" source="duZUUpKp-X-Sca9o4KZR-82" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" value="&amp;lt;&amp;lt;verify&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="685" y="470" as="sourcePoint" />
+            <mxPoint x="440" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-90" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="649.81" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-91" parent="duZUUpKp-X-Sca9o4KZR-90" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;testCase&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-92" parent="duZUUpKp-X-Sca9o4KZR-90" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="Test 6_3" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-93" parent="duZUUpKp-X-Sca9o4KZR-90" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-94" parent="duZUUpKp-X-Sca9o4KZR-90" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Angajatul primește o nouă parolă temporară" vertex="1">
+          <mxGeometry height="38" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-95" edge="1" parent="1" source="duZUUpKp-X-Sca9o4KZR-94" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="CoMKM3UgeIEsxedEKar0-17" value="&amp;lt;&amp;lt;verify&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="685" y="670" as="sourcePoint" />
+            <mxPoint x="440" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-96" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="340" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-97" parent="duZUUpKp-X-Sca9o4KZR-96" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;testCase&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-98" parent="duZUUpKp-X-Sca9o4KZR-96" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="Test 6_4" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-99" parent="duZUUpKp-X-Sca9o4KZR-96" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-100" parent="duZUUpKp-X-Sca9o4KZR-96" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Sistemul permite angajatului blocarea/debocarea unui cont&amp;nbsp;" vertex="1">
+          <mxGeometry height="38" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-101" edge="1" parent="1" source="duZUUpKp-X-Sca9o4KZR-97" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="CoMKM3UgeIEsxedEKar0-19" value="&amp;lt;&amp;lt;verify&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="830" as="sourcePoint" />
+            <mxPoint x="440" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-103" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="90" width="200" x="650" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-104" parent="duZUUpKp-X-Sca9o4KZR-103" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;testCase&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-105" parent="duZUUpKp-X-Sca9o4KZR-103" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="Test 6_5" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-106" parent="duZUUpKp-X-Sca9o4KZR-103" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-107" parent="duZUUpKp-X-Sca9o4KZR-103" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Contul este eliminat din system; Utilizatorul nu mai poate accesa aplicația" vertex="1">
+          <mxGeometry height="48" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-108" edge="1" parent="1" source="duZUUpKp-X-Sca9o4KZR-107" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="duZUUpKp-X-Sca9o4KZR-3" value="&amp;lt;&amp;lt;verify&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="995" y="1090" as="sourcePoint" />
+            <mxPoint x="750" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-109" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="939" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-110" parent="duZUUpKp-X-Sca9o4KZR-109" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;testCase&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-111" parent="duZUUpKp-X-Sca9o4KZR-109" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="Test 6_1_1" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-112" parent="duZUUpKp-X-Sca9o4KZR-109" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-113" parent="duZUUpKp-X-Sca9o4KZR-109" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Se acceptă doar selecții valide; Sistemul confirmă selecția contului." vertex="1">
+          <mxGeometry height="38" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-114" edge="1" parent="1" source="duZUUpKp-X-Sca9o4KZR-113" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1.007;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" target="CoMKM3UgeIEsxedEKar0-15" value="&amp;lt;&amp;lt;verify&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1235" y="300" as="sourcePoint" />
+            <mxPoint x="990" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-115" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="939" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-116" parent="duZUUpKp-X-Sca9o4KZR-115" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;testCase&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-117" parent="duZUUpKp-X-Sca9o4KZR-115" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="Test 6_1_2" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-118" parent="duZUUpKp-X-Sca9o4KZR-115" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-119" parent="duZUUpKp-X-Sca9o4KZR-115" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Sunt afișate corect datele contului" vertex="1">
+          <mxGeometry height="38" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-120" edge="1" parent="1" source="duZUUpKp-X-Sca9o4KZR-119" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1.007;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" value="&amp;lt;&amp;lt;verify&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1235" y="400" as="sourcePoint" />
+            <mxPoint x="851" y="303" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-121" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="939" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-122" parent="duZUUpKp-X-Sca9o4KZR-121" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;testCase&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-123" parent="duZUUpKp-X-Sca9o4KZR-121" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="Test 6_2_1" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-124" parent="duZUUpKp-X-Sca9o4KZR-121" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-125" parent="duZUUpKp-X-Sca9o4KZR-121" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Lista conține toate drepturile disponibile" vertex="1">
+          <mxGeometry height="38" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-126" edge="1" parent="1" source="duZUUpKp-X-Sca9o4KZR-125" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1.007;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" value="&amp;lt;&amp;lt;verify&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1235" y="500" as="sourcePoint" />
+            <mxPoint x="851" y="403" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-127" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="939" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-128" parent="duZUUpKp-X-Sca9o4KZR-127" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;testCase&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-129" parent="duZUUpKp-X-Sca9o4KZR-127" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="Test 6_2_2" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-130" parent="duZUUpKp-X-Sca9o4KZR-127" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-131" parent="duZUUpKp-X-Sca9o4KZR-127" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Drepturile sunt actualizate corect în baza de date" vertex="1">
+          <mxGeometry height="38" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-132" edge="1" parent="1" source="duZUUpKp-X-Sca9o4KZR-131" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="duZUUpKp-X-Sca9o4KZR-30" value="&amp;lt;&amp;lt;verify&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1374" y="690" as="sourcePoint" />
+            <mxPoint x="990" y="593" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-134" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="939" y="635" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-135" parent="duZUUpKp-X-Sca9o4KZR-134" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;testCase&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-136" parent="duZUUpKp-X-Sca9o4KZR-134" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="Test 6_3_1" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-137" parent="duZUUpKp-X-Sca9o4KZR-134" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-138" parent="duZUUpKp-X-Sca9o4KZR-134" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Parola generată este afișată administratorului" vertex="1">
+          <mxGeometry height="38" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-139" edge="1" parent="1" source="duZUUpKp-X-Sca9o4KZR-138" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1.007;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" value="&amp;lt;&amp;lt;verify&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1235" y="790" as="sourcePoint" />
+            <mxPoint x="851" y="693" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-140" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="939" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-141" parent="duZUUpKp-X-Sca9o4KZR-140" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;testCase&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-142" parent="duZUUpKp-X-Sca9o4KZR-140" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="Test 6_4_1" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-143" parent="duZUUpKp-X-Sca9o4KZR-140" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-144" parent="duZUUpKp-X-Sca9o4KZR-140" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Starea contului este salvată corect&amp;nbsp;" vertex="1">
+          <mxGeometry height="38" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-145" edge="1" parent="1" source="duZUUpKp-X-Sca9o4KZR-144" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1.007;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" value="&amp;lt;&amp;lt;verify&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1235" y="880" as="sourcePoint" />
+            <mxPoint x="851" y="783" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-146" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="90" width="200" x="939" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-147" parent="duZUUpKp-X-Sca9o4KZR-146" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;testCase&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-148" parent="duZUUpKp-X-Sca9o4KZR-146" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="Test 6_5_1" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-149" parent="duZUUpKp-X-Sca9o4KZR-146" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-150" parent="duZUUpKp-X-Sca9o4KZR-146" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Operația nu continuă fără confirmare; După confirmare, ștergerea este executată" vertex="1">
+          <mxGeometry height="48" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-151" edge="1" parent="1" source="duZUUpKp-X-Sca9o4KZR-150" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1.007;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" value="&amp;lt;&amp;lt;verify&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1235" y="990" as="sourcePoint" />
+            <mxPoint x="851" y="893" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-152" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="90" width="200" x="939" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-153" parent="duZUUpKp-X-Sca9o4KZR-152" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;testCase&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-154" parent="duZUUpKp-X-Sca9o4KZR-152" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="Test 6_6_1" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-155" parent="duZUUpKp-X-Sca9o4KZR-152" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-156" parent="duZUUpKp-X-Sca9o4KZR-152" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Sistemul detectează datele invalide; Sunt afișate mesaje de eroare corespunzătoare" vertex="1">
+          <mxGeometry height="48" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-157" edge="1" parent="1" source="duZUUpKp-X-Sca9o4KZR-156" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1.007;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" value="&amp;lt;&amp;lt;verify&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1235" y="1190" as="sourcePoint" />
+            <mxPoint x="851" y="1093" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-158" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="100" width="200" x="939" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-159" parent="duZUUpKp-X-Sca9o4KZR-158" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;testCase&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-160" parent="duZUUpKp-X-Sca9o4KZR-158" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="Test 6_6_2" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-161" parent="duZUUpKp-X-Sca9o4KZR-158" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-162" parent="duZUUpKp-X-Sca9o4KZR-158" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Contul și drepturile sunt salvate correct; Utilizatorul poate utilizacontul cu drepturile atribuite" vertex="1">
+          <mxGeometry height="58" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-163" edge="1" parent="1" source="duZUUpKp-X-Sca9o4KZR-162" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1.007;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;" value="&amp;lt;&amp;lt;verify&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1235" y="1280" as="sourcePoint" />
+            <mxPoint x="851" y="1183" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-164" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="10" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-165" parent="duZUUpKp-X-Sca9o4KZR-164" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;testCase&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-166" parent="duZUUpKp-X-Sca9o4KZR-164" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="Test 6" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-167" parent="duZUUpKp-X-Sca9o4KZR-164" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-168" parent="duZUUpKp-X-Sca9o4KZR-164" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Sunt disponibile funcțiile de gestionare a conturilor și drepturilor" vertex="1">
+          <mxGeometry height="38" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-169" edge="1" parent="1" source="duZUUpKp-X-Sca9o4KZR-165" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="CoMKM3UgeIEsxedEKar0-9" value="&amp;lt;&amp;lt;verify&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="304" y="980" as="sourcePoint" />
+            <mxPoint x="-80" y="883" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-170" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="80" width="200" x="338" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-171" parent="duZUUpKp-X-Sca9o4KZR-170" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;testCase&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-172" parent="duZUUpKp-X-Sca9o4KZR-170" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="Test 6_6" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-173" parent="duZUUpKp-X-Sca9o4KZR-170" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-174" parent="duZUUpKp-X-Sca9o4KZR-170" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="Contul este creat cu success" vertex="1">
+          <mxGeometry height="38" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="duZUUpKp-X-Sca9o4KZR-175" edge="1" parent="1" source="duZUUpKp-X-Sca9o4KZR-171" style="endArrow=open;edgeStyle=none;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="duZUUpKp-X-Sca9o4KZR-15" value="&amp;lt;&amp;lt;verify&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="634" y="1290" as="sourcePoint" />
+            <mxPoint x="250" y="1193" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
